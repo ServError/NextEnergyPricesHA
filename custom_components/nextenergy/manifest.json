@@ -1,10 +1,11 @@
 {
   "domain": "nextenergy",
   "name": "NextEnergy Market Prices",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "documentation": "https://github.com/yourusername/nextenergy",
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@yourusername"],
-  "config_flow": true
+  "config_flow": true,
+  "single_config_entry": true
 }
